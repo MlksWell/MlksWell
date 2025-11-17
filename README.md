@@ -33,7 +33,7 @@
 ## 🔗 Connect with me
 <p align="center">
   <!-- Adicione seus links depois -->
-  <a href="#">
+  <a href="https://www.linkedin.com/in/wellyson-lopes-carneiro/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MlksWell">
